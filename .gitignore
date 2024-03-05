@@ -1,0 +1,5 @@
+__pycache__/
+cache_dir/
+models/
+*_data/
+*.log
